@@ -1,0 +1,199 @@
+{
+  "users": [
+    {
+      "username": "alice",
+      "name": "newUser",
+      "password": "123"
+    },
+    {
+      "username": "bob",
+      "name": "Bob Jones",
+      "password": "123"
+    },
+    {
+      "username": "charlie",
+      "name": "Charlie Brown",
+      "password": "123"
+    },
+    {
+      "username": "newuser",
+      "name": "New User",
+      "password": "secret"
+    },
+    {
+      "name": "Test User",
+      "username": "testuser@example.com",
+      "password": "testpass123"
+    },
+    {
+      "name": "Test Useeer",
+      "username": "testusser@example.com",
+      "password": "testpass123"
+    },
+    {
+      "name": "Tanay Test User",
+      "username": "tanaytest@example.com",
+      "password": "testpass123"
+    },
+    {
+      "name": "TanaySTest User",
+      "username": "tanaystest@example.com",
+      "password": "testpass123"
+    },
+    {
+      "username": "jmeter_user",
+      "name": "JMeter User",
+      "password": "123"
+    },
+    {
+      "username": "jmeter_usernew",
+      "name": "JMeter User new",
+      "password": "123"
+    },
+    {
+      "username": "user_431772",
+      "name": "Selenium User 431772",
+      "password": "123"
+    },
+    {
+      "username": "user_432026",
+      "name": "Selenium User 432026",
+      "password": "123"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "This message was edited by JMeter!",
+      "timestamp": 0
+    },
+    {
+      "id": "1781428837504zatrf",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781428837504
+    },
+    {
+      "id": "17814288642321some",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781428864232
+    },
+    {
+      "id": "1781428915928f62if",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781428915928
+    },
+    {
+      "id": "178142891764494t2n",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781428917644
+    },
+    {
+      "id": "1781429065417ownia",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781429065417
+    },
+    {
+      "id": "17814290895176cgbp",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781429089517
+    },
+    {
+      "id": "1781429139770bhur2",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello from JMeter Load Test!",
+      "timestamp": 1781429139771
+    },
+    {
+      "id": "17814294440824106b",
+      "sender": "jmeter_user",
+      "type": "direct",
+      "recipient": "alice",
+      "text": "Hello Im Sarthi",
+      "timestamp": 1781429444082
+    },
+    {
+      "id": "1781430294316n7nfb",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "Hello Bob! Automated test 1781430292317",
+      "timestamp": 1781430294317
+    },
+    {
+      "id": "1781430444889pmnxt",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "Msg to edit 1781430443106",
+      "timestamp": 1781430444889
+    },
+    {
+      "id": "1781430564150r7au8",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "This message was edited 1781430562241",
+      "timestamp": 1781430564150
+    },
+    {
+      "id": "1781431783240z7hs0",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "Hello Bob! Automated Selenium msg 1781431783",
+      "timestamp": 1781431783240
+    },
+    {
+      "id": "1781431790400qojq1",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "Orig message 1781431790",
+      "timestamp": 1781431790400
+    },
+    {
+      "id": "17814320378462jid4",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "Hello Bob! Automated Selenium msg 1781432037",
+      "timestamp": 1781432037846
+    },
+    {
+      "id": "1781432045300jnszm",
+      "sender": "alice",
+      "type": "direct",
+      "recipient": "bob",
+      "text": "Edited message 1781432048",
+      "timestamp": 1781432045300
+    }
+  ],
+  "groups": [],
+  "currentUser": {
+    "username": "alice",
+    "name": "newUser"
+  }
+}
