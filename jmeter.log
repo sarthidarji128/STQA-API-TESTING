@@ -1,0 +1,47 @@
+2026-06-20 12:35:14,538 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-06-20 12:35:14,563 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/user.properties
+2026-06-20 12:35:14,564 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/system.properties
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: Version 5.6.3
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: java.version=21.0.11
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: os.name=Mac OS X
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: os.arch=aarch64
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: os.version=26.5.1
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: java.awt.headless=null
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-06-20 12:35:14,568 INFO o.a.j.JMeter: Available Processors =8
+2026-06-20 12:35:14,575 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-06-20 12:35:14,575 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-06-20 12:35:14,575 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.6.3/libexec
+2026-06-20 12:35:14,575 INFO o.a.j.JMeter: user.dir  =/Users/s.d./STQA-API-TESTING
+2026-06-20 12:35:14,575 INFO o.a.j.JMeter: PWD       =/Users/s.d./STQA-API-TESTING
+2026-06-20 12:35:14,578 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: SARTHI.local FullName: localhost
+2026-06-20 12:35:14,587 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-06-20 12:35:14,931 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-06-20 12:35:16,271 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-06-20 12:35:16,439 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-06-20 12:35:16,499 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=mac_os_x-ae5413ae4f48a805976d579057313c47-gui
+2026-06-20 12:35:21,757 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.9, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2026-06-20 12:35:21,758 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2026-06-20 12:41:04,914 INFO o.a.j.s.FileServer: Default base='/Users/s.d./STQA-API-TESTING'
+2026-06-20 12:41:04,917 INFO o.a.j.g.a.Load: Loading file: /Users/s.d./STQA-API-TESTING/Jmeter/View Results Tree.jmx
+2026-06-20 12:41:04,917 INFO o.a.j.s.FileServer: Set new base='/Users/s.d./STQA-API-TESTING/Jmeter'
+2026-06-20 12:41:05,048 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-06-20 12:41:05,053 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-06-20 12:41:05,054 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-06-20 12:41:05,055 INFO o.a.j.s.SaveService: Loading file: /Users/s.d./STQA-API-TESTING/Jmeter/View Results Tree.jmx
+2026-06-20 12:41:05,115 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-20 12:41:05,115 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-20 12:41:05,116 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-20 12:41:05,116 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-20 12:41:05,116 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-06-20 12:41:05,116 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-06-20 12:41:05,250 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-06-20 12:41:05,250 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-06-20 12:41:05,250 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-06-20 12:41:05,250 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-06-20 12:41:05,337 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-06-20 12:41:05,355 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-06-20 12:41:05,387 INFO o.a.j.s.FileServer: Set new base='/Users/s.d./STQA-API-TESTING/Jmeter'
